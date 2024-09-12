@@ -1,3 +1,4 @@
+![logo](https://github.com/Raj-Tushal/Raj-Tushal/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Raj Tushal</h1>
 <h3 align="center">Senior MERN STACK student @SMIT</h3>
 
